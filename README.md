@@ -19,3 +19,7 @@ This is my second commit!!!!
 - Item 2
     - Sub Item 1
     - Sub Item 2
+
+**Images**
+**Remote Images**
+![An image of the cat](http://placekitten.com/200/300)
